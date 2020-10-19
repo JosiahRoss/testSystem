@@ -1,0 +1,13 @@
+{
+  "name":"testSystem",
+  "title": "Test System",
+  "author": "Josiah Sanborn",
+  "minimumCoreVersion": "0.6.6",
+  "compatiblecoreVersion": "0.6.6",
+  "esmodules":[
+    "testSystem.js"
+  ],
+  "styles":[
+    "testSystem.css"
+  ]
+}
